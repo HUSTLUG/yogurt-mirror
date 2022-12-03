@@ -5,7 +5,7 @@
 ## 1 当前进展
 目前HUSTLUG镜像站处于开发阶段，预计在近期上线
 ## 2 需求征集
-在镜像站上线之前，可以将对于镜像源的需求以issue的方式提出，使用模板即可
+在镜像站上线之前，可以将对于镜像源的需求以issue的方式提出，使用[模板](https://github.com/HUSTLUG/yogurt-mirror/issues/new?assignees=&labels=Mirror+Request&template=mirror_request.yaml&title=%5B%E9%95%9C%E5%83%8F%E9%9C%80%E6%B1%82%5D+)即可
 
 ![image.png](https://s2.loli.net/2022/12/03/faoReHsdgCxFq8b.png)
 

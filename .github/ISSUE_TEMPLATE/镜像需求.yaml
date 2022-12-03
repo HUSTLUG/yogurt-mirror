@@ -5,29 +5,29 @@ labels: ["Mirror Request"]
 assignees: ''
 body:
   - type: checkboxes
-      id: prerequisites
-      attributes:
-        label: 先决条件 (Prerequisites)
-        options:
-          - label: |
-              我已确认这个镜像源从未在 [其他 issues](https://github.com/HUSTLUG/yogurt-sync/issues) 中讨论过。
-          required: true
-
-  - type: textarea
-      id: usage
-      attributes:
-        label: 用途
-      validations:
+    id: prerequisites
+    attributes:
+      label: 先决条件 (Prerequisites)
+      options:
+        - label: |
+            我已确认这个镜像源从未在 [其他 issues](https://github.com/HUSTLUG/yogurt-sync/issues) 中讨论过。
         required: true
 
   - type: textarea
-      id: upstream
-      attributes:
-        label: 上游仓库地址或同步方式
-      validations:
-        required: true
+    id: usage
+    attributes:
+      label: 用途
+    validations:
+      required: true
 
   - type: textarea
-      id: more
-      attributes:
-        label: 备注
+    id: upstream
+    attributes:
+      label: 上游仓库地址或同步方式
+    validations:
+      required: true
+
+  - type: textarea
+    id: more
+    attributes:
+      label: 备注

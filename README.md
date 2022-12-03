@@ -6,9 +6,11 @@
 目前HUSTLUG镜像站处于开发阶段，预计在近期上线
 ## 2 需求征集
 在镜像站上线之前，可以将对于镜像站的需求以issue的方式提出，使用[模板](https://github.com/HUSTLUG/yogurt-sync/issues/new?template=%E9%95%9C%E5%83%8F%E9%9C%80%E6%B1%82.md)即可
+
 ![image.png](https://s2.loli.net/2022/12/03/faoReHsdgCxFq8b.png)
 
 类似下图所示
+
 ![image.png](https://s2.loli.net/2022/12/03/uSqxUkbNo8KRvQ9.png)
 
 ## 3 参与项目

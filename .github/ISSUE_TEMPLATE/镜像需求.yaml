@@ -11,7 +11,7 @@ body:
       options:
         - label: |
             我已确认这个镜像源从未在 [其他 issues](https://github.com/HUSTLUG/yogurt-sync/issues) 中讨论过。
-        required: true
+          required: true
 
   - type: textarea
     id: usage

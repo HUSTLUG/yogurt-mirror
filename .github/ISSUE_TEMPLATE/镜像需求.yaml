@@ -2,7 +2,6 @@ name: 镜像需求
 description: 对于镜像站的需求
 title: "[镜像需求] "
 labels: ["Mirror Request"]
-assignees: ''
 body:
   - type: checkboxes
     id: prerequisites

@@ -7,11 +7,11 @@
 ## 2 需求征集
 在镜像站上线之前，可以将对于镜像源的需求以issue的方式提出，使用[模板](https://github.com/HUSTLUG/yogurt-mirror/issues/new?assignees=&labels=Mirror+Request&template=mirror_request.yaml&title=%5B%E9%95%9C%E5%83%8F%E9%9C%80%E6%B1%82%5D+)即可
 
-![image.png](https://s2.loli.net/2022/12/03/faoReHsdgCxFq8b.png)
+![](./pictures/mirror_request.png)
 
 类似下图所示
 
-![image.png](https://s2.loli.net/2022/12/03/uSqxUkbNo8KRvQ9.png)
+![](./pictures/mirror_request_example.png)
 
 同时，也欢迎在issue中提出对于镜像站本身的相关建议或疑问等
 ## 3 参与项目

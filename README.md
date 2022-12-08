@@ -1,5 +1,3 @@
-<h5/>
-
 <div align=center>
 <img src="statics/yogurt-sync.ico" height=100px/>
 </div>

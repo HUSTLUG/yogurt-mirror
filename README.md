@@ -1,5 +1,5 @@
 <div align=center>
-<img src="statics/yogurt-sync.svg" height=100px style="border-radius: 20px"/>
+<img src="statics/yogurt-sync.ico" height=100px/>
 </div>
 
 <h1 align="center">
